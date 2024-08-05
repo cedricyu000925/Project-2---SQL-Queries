@@ -1,0 +1,21 @@
+﻿RecipeID,RecipeName,Description,Cuisine,CookingTime,DifficultyLevel
+1,Spaghetti Carbonara,Classic Italian pasta dish,Italian,20 min,Medium
+2,Chicken Curry,Spicy and flavorful chicken curry,Indian,45 min,Hard
+3,Caesar Salad,Fresh and crunchy salad,American,15 min,Easy
+4,Sushi Rolls,Traditional Japanese sushi rolls,Japanese,60 min,Hard
+5,Tacos,Mexican street food,Mexican,30 min,Medium
+6,Beef Stroganoff,Creamy beef and mushroom dish,Russian,40 min,Medium
+7,Pad Thai,Stir-fried rice noodle dish,Thai,30 min,Medium
+8,Margherita Pizza,Classic Italian pizza with fresh basil,Italian,25 min,Easy
+9,Ratatouille,Traditional French vegetable stew,French,50 min,Hard
+10,Falafel,Deep-fried chickpea balls,Middle Eastern,35 min,Medium
+11,Beef Stroganoff,Creamy beef and mushroom dish,Russian,40 min,Medium
+12,Pad Thai,Stir-fried rice noodle dish,Thai,30 min,Medium
+13,Margherita Pizza,Classic Italian pizza with fresh basil,Italian,25 min,Easy
+14,Ratatouille,Traditional French vegetable stew,French,50 min,Hard
+15,Falafel,Deep-fried chickpea balls,Middle Eastern,35 min,Medium
+16,Beef Tacos,Spicy beef tacos with fresh toppings,Mexican,30 min,Easy
+17,Chicken Alfredo,Creamy pasta with chicken,Italian,25 min,Medium
+18,Greek Salad,Fresh salad with feta and olives,Greek,15 min,Easy
+19,Pancakes,Fluffy breakfast pancakes,American,20 min,Easy
+20,Chicken Teriyaki,Sweet and savory chicken dish,Japanese,30 min,Medium

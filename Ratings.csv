@@ -1,0 +1,31 @@
+﻿RatingID,RecipeID,UserID,Rating,Review
+1,1,101,5,Delicious and easy to make!
+2,2,102,4,Very flavorful but a bit too spicy.
+3,3,103,3,Fresh but needed more dressing.
+4,4,104,5,"Authentic taste, loved it!"
+5,5,101,4,Tasty but could use more toppings.
+6,11,115,4,Creamy and delicious!
+7,12,116,5,"Authentic taste, loved it!"
+8,13,117,3,"Good, but the crust was too thick."
+9,14,118,5,Perfect blend of flavors.
+10,15,119,4,Crispy and flavorful.
+11,16,120,5,Best tacos I've ever had!
+12,17,121,4,Very creamy and tasty.
+13,18,122,5,Fresh and healthy!
+14,19,123,4,Fluffy and delicious.
+15,20,124,5,"Sweet and savory, perfect!"
+16,1,125,2,Too salty for my taste.
+17,2,126,1,"Way too spicy, couldn't eat it."
+18,3,127,2,Bland and boring.
+19,4,128,3,Took too long to prepare.
+20,5,129,2,The tortillas were soggy.
+21,11,130,3,"Not bad, but I've had better."
+22,12,131,2,Too sweet for my liking.
+23,13,132,1,The pizza was burnt.
+24,14,133,2,Vegetables were undercooked.
+25,15,134,3,A bit too dry.
+26,16,135,2,The beef was tough.
+27,17,136,1,Sauce was too thick and heavy.
+28,18,137,2,Not enough dressing.
+29,19,138,1,Pancakes were flat and dense.
+30,20,139,2,"Too sweet, not balanced."
